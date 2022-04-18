@@ -1,0 +1,26 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+// footer {
+//   position: absolute;
+//   bottom: 0px;
+//   right : 0px;
+//   left :  0px;
+// }
+// $theme-colors: (
+//   "success": #6f42c1,
+// );
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+/* 
+.bg-success {
+background-color: #76199b !important ; 
+} */
